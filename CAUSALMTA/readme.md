@@ -1,5 +1,5 @@
 # CAUSALMTA
-AAAI'2022 paper: CAUSALMTA: Eliminating the User Confounding Bias for Causal Multi-touch Attribution
+KDD'2022 paper: CAUSALMTA: Eliminating the User Confounding Bias for Causal Multi-touch Attribution
 # Running the program
 ```sh
 python run.py --config configs/configs.txt
