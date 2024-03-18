@@ -6,7 +6,8 @@ torch.manual_seed(1)
 import random
 import math
 # from predictors.Attn_LSTM_ub import *
-from predictors.Attn_LSTM_uc import *
+# from predictors.Attn_LSTM_uc import *
+from predictors.causal_predictor import *
 
 """
 input: list of touch
